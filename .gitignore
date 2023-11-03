@@ -1,0 +1,4 @@
+*.npz
+.vscode/
+__pycache__/
+sync.ffs_db
